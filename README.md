@@ -27,4 +27,4 @@ Line 4 **Two Underscores** Other stuff
 
 Link to [GitHub](https://github.com).
 
-Another example of a link [GitHub Again](https://github.com _What's This?_)
+Another example of a link [GitHub Again](https://github.com/ *What's This?*)
