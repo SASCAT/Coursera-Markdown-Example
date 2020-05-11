@@ -1,4 +1,4 @@
-#just_a_test
+# just_a_test
 
 This is just a test README for the Data Science course.
 
@@ -9,7 +9,7 @@ A list
 ## Another Section
 With text here!
 
-###Formatting
+### Formatting
 Line 1 *One star* Other stuff
 
 Line 2 **Two stars** Other stuff
